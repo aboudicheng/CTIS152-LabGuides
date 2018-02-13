@@ -1,0 +1,6 @@
+111 Artificial_Intelligence 49.99
+222 The_Bounds_of_Cognition 48.39
+333 Management_Information_Systems 59.29
+444 Theory_of_Computation 53.99
+555 Database_Systems 59.49
+666 The_Art_of_Happiness 19.99
