@@ -54,7 +54,7 @@ int main(void) {
 	if (ptr == NULL)
 		printf("Cannot open file.\n");
 	else {
-		university_t p[UNISIZE * UNISTU];
+		university_t p[UNISIZE];
 		readFile(ptr, p);
 		calcFee(p);
 		display(p);
